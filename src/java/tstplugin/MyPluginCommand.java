@@ -1,4 +1,4 @@
-package nobbymz.template.TSTPlugin;
+package tstplugin;
 
 import net.canarymod.chat.MessageReceiver;
 import net.canarymod.commandsys.Command;
