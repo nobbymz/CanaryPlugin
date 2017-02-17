@@ -1,4 +1,4 @@
-package me.sgray.template.canaryplugin;
+package nobbymz.template.TSTPlugin;
 
 import net.canarymod.Canary;
 import net.canarymod.commandsys.CommandDependencyException;
